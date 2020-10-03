@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "7604a60bc956883dd2ee5939312faa9a",
+        "name": "2.png",
+        "path": "file:C:/Users/user/Desktop/png_img/2.png",
+        "size": {
+            "width": 262,
+            "height": 192
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dzID-HvRO",
+            "type": "RECTANGLE",
+            "tags": [
+                "Traffic_sign"
+            ],
+            "boundingBox": {
+                "height": 89.41176470588235,
+                "width": 58.98922155688623,
+                "left": 166.63278443113774,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 166.63278443113774,
+                    "y": 0
+                },
+                {
+                    "x": 225.62200598802397,
+                    "y": 0
+                },
+                {
+                    "x": 225.62200598802397,
+                    "y": 89.41176470588235
+                },
+                {
+                    "x": 166.63278443113774,
+                    "y": 89.41176470588235
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
