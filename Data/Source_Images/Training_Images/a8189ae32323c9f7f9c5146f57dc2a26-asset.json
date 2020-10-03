@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a8189ae32323c9f7f9c5146f57dc2a26",
+        "name": "00000_00000_00012.png",
+        "path": "file:D:/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000_00000_00012.png",
+        "size": {
+            "width": 37,
+            "height": 38
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fGTR5Xiev",
+            "type": "RECTANGLE",
+            "tags": [
+                "Traffic Sign"
+            ],
+            "boundingBox": {
+                "height": 32.95542635658915,
+                "width": 32.21868787276342,
+                "left": 3.1417588220675943,
+                "top": 2.467054263565892
+            },
+            "points": [
+                {
+                    "x": 3.1417588220675943,
+                    "y": 2.467054263565892
+                },
+                {
+                    "x": 35.36044669483101,
+                    "y": 2.467054263565892
+                },
+                {
+                    "x": 35.36044669483101,
+                    "y": 35.42248062015504
+                },
+                {
+                    "x": 3.1417588220675943,
+                    "y": 35.42248062015504
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
